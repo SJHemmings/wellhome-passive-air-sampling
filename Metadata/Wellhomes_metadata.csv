@@ -1,0 +1,268 @@
+ID,Home,Campaign,Start_Date,Collection_Date,Group,Type,Sequenced,Exposure_Days,qPCR_plate,DNA_Extracted,Season
+WH001_1,WH001,Campaign 1,18/10/2022,15/11/2022,Group 1,Indoor,Panel 1,28,PLATE1,Yes,Winter
+WH002_1,WH002,Campaign 1,19/10/2022,16/11/2022,Group 1,Indoor,Panel 1,28,PLATE1,Yes,Winter
+WH003_1,WH003,Campaign 1,19/01/2023,17/02/2023,Group 2,Indoor,Panel 1,29,PLATE1,Yes,Winter
+WH004_1,WH004,Campaign 1,11/10/2022,08/11/2022,Group 1,Indoor,Panel 1,28,PLATE1,Yes,Autumn
+WH005_1,WH005,Campaign 1,12/10/2022,10/11/2022,Group 1,Indoor,Panel 1,29,PLATE1,Yes,Autumn
+WH006_1,WH006,Campaign 1,04/10/2022,01/11/2022,Group 1,Indoor,Panel 3,28,PLATE10,Yes,Autumn
+WH007_1,WH007,Campaign 1,11/10/2022,07/11/2022,Group 1,Indoor,Panel 1,27,PLATE1,Yes,Autumn
+WH008_1,WH008,Campaign 1,18/10/2022,15/11/2022,Group 1,Indoor,Panel 1,28,PLATE1,Yes,Autumn
+WH009_1,WH009,Campaign 1,03/10/2022,07/11/2022,Group 1,Indoor,Panel 1,35,PLATE1,Yes,Autumn
+WH010_1,WH010,Campaign 1,17/10/2022,14/11/2022,Group 1,Indoor,Panel 3,28,PLATE10,Yes,Autumn
+WH011_1,WH011,Campaign 1,19/10/2022,16/11/2022,Group 1,Indoor,Panel 1,28,PLATE1,Yes,Autumn
+WH012_1,WH012,Campaign 1,04/10/2022,01/11/2022,Group 1,Indoor,Panel 1,28,PLATE1,Yes,Autumn
+WH013_1,WH013,Campaign 1,14/10/2022,11/11/2022,Group 1,Indoor,Panel 1,28,PLATE1,Yes,Autumn
+WH014_1,WH014,Campaign 1,04/10/2022,07/11/2022,Group 1,Indoor,Panel 1,34,PLATE1,Yes,Autumn
+WH015_1,WH015,Campaign 1,17/10/2022,14/11/2022,Group 1,Indoor,Panel 1,28,PLATE1,Yes,Autumn
+WH016_1,WH016,Campaign 1,09/10/2022,06/11/2022,Group 1,Indoor,Panel 1,28,PLATE1,Yes,Autumn
+WH017_1,WH017,Campaign 1,11/10/2022,09/11/2022,Group 1,Indoor,Panel 1,29,PLATE1,Yes,Autumn
+WH018_1,WH018,Campaign 1,03/10/2022,01/11/2022,Group 1,Indoor,Panel 1,29,PLATE1,Yes,Autumn
+WH019_1,WH019,Campaign 1,10/10/2022,08/11/2022,Group 1,Indoor,Panel 1,29,PLATE1,Yes,Autumn
+WH020_1,WH020,Campaign 1,07/10/2022,07/11/2022,Group 1,Indoor,Panel 1,31,PLATE1,Yes,Autumn
+WH021_1,WH021,Campaign 1,15/01/2023,13/02/2023,Group 2,Indoor,Panel 1,29,PLATE1,Yes,Winter
+WH022_1,WH022,Campaign 1,19/01/2023,18/02/2023,Group 2,Indoor,Panel 1,30,PLATE1,Yes,Winter
+WH023_1,WH023,Campaign 1,12/01/2023,13/02/2023,Group 2,Indoor,Panel 1,32,PLATE1,Yes,Winter
+WH024_1,WH024,Campaign 1,12/01/2023,10/02/2023,Group 2,Indoor,Panel 1,29,PLATE1,Yes,Winter
+WH025_1,WH025,Campaign 1,20/01/2023,17/02/2023,Group 2,Indoor,Panel 1,28,PLATE1,Yes,Winter
+WH026_1,WH026,Campaign 1,18/01/2023,16/02/2023,Group 2,Indoor,Panel 1,29,PLATE1,Yes,Winter
+WH027_1,WH027,Campaign 1,15/01/2023,12/02/2023,Group 2,Indoor,Panel 1,28,PLATE1,Yes,Winter
+WH029_1,WH029,Campaign 1,16/01/2023,14/02/2023,Group 2,Indoor,Panel 1,29,PLATE1,Yes,Winter
+WH030_1,WH030,Campaign 1,16/01/2023,14/02/2023,Group 2,Indoor,Panel 1,29,PLATE1,Yes,Winter
+WH031_1,WH031,Campaign 1,16/01/2023,14/02/2023,Group 2,Indoor,Panel 1,29,PLATE2,Yes,Winter
+WH032_1,WH032,Campaign 1,23/02/2023,24/03/2023,Group 3,Indoor,Panel 1,29,PLATE2,Yes,Spring
+WH033_1,WH033,Campaign 1,20/02/2023,20/03/2023,Group 3,Indoor,Panel 1,28,PLATE2,Yes,Spring
+WH034_1,WH034,Campaign 1,11/01/2023,09/02/2023,Group 2,Indoor,Panel 1,29,PLATE2,Yes,Winter
+WH035_1,WH035,Campaign 1,20/02/2023,20/03/2023,Group 3,Indoor,Panel 1,28,PLATE2,Yes,Spring
+WH036_1,WH036,Campaign 1,11/01/2023,09/02/2023,Group 2,Indoor,Panel 1,29,PLATE2,Yes,Winter
+WH037_1,WH037,Campaign 1,17/01/2023,15/02/2023,Group 2,Indoor,Panel 3,29,PLATE10,Yes,Winter
+WH038_1,WH038,Campaign 1,18/01/2023,20/02/2023,Group 2,Indoor,Panel 1,33,PLATE2,Yes,Winter
+WH039_1,WH039,Campaign 1,15/01/2023,12/02/2023,Group 2,Indoor,Panel 3,28,PLATE10,Yes,Winter
+WH040_1,WH040,Campaign 1,17/01/2023,15/02/2023,Group 2,Indoor,Panel 1,29,PLATE2,Yes,Winter
+WH041_1,WH041,Campaign 1,13/01/2023,10/02/2023,Group 2,Indoor,Panel 1,28,PLATE3,Yes,Winter
+WH042_1,WH042,Campaign 1,12/01/2023,10/02/2023,Group 2,Indoor,Panel 1,29,PLATE3,Yes,Winter
+WH043_1,WH043,Campaign 1,20/02/2023,21/03/2023,Group 3,Indoor,Panel 1,29,PLATE3,Yes,Spring
+WH044_1,WH044,Campaign 1,28/02/2023,27/03/2023,Group 3,Indoor,Panel 1,27,PLATE3,Yes,Spring
+WH045_1,WH045,Campaign 1,22/02/2023,23/03/2023,Group 3,Indoor,Panel 1,29,PLATE3,Yes,Spring
+WH046_1,WH046,Campaign 1,24/02/2023,24/03/2023,Group 3,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH047_1,WH047,Campaign 1,22/02/2023,24/03/2023,Group 3,Indoor,Panel 1,30,PLATE3,Yes,Spring
+WH048_1,WH048,Campaign 1,23/02/2023,20/03/2023,Group 3,Indoor,Panel 1,25,PLATE4,Yes,Spring
+WH049_1,WH049,Campaign 1,05/03/2023,02/04/2023,Group 3,Indoor,Panel 1,28,PLATE4,Yes,Spring
+WH050_1,WH050,Campaign 1,28/02/2023,28/03/2023,Group 3,Indoor,Panel 1,28,PLATE4,Yes,Spring
+WH051_1,WH051,Campaign 1,28/02/2023,28/03/2023,Group 3,Indoor,Panel 1,28,PLATE4,Yes,Spring
+WH052_1,WH052,Campaign 1,27/02/2023,28/03/2023,Group 3,Indoor,Panel 1,29,PLATE4,Yes,Spring
+WH053_1,WH053,Campaign 1,01/03/2023,29/03/2023,Group 3,Indoor,Panel 1,28,PLATE4,Yes,Spring
+WH054_1,WH054,Campaign 1,02/03/2023,31/03/2023,Group 3,Indoor,Panel 1,29,PLATE4,Yes,Spring
+WH055_1,WH055,Campaign 1,06/03/2023,03/04/2023,Group 3,Indoor,Panel 1,28,PLATE4,Yes,Spring
+WH056_1,WH056,Campaign 1,18/12/2023,15/01/2024,Group 6,Indoor,Panel 3,28,PLATE5,Yes,Winter
+WH057_1,WH057,Campaign 1,03/03/2023,31/03/2023,Group 3,Indoor,Panel 1,28,PLATE4,Yes,Spring
+WH058_1,WH058,Campaign 1,06/12/2023,03/01/2024,Group 6,Indoor,Panel 2,28,PLATE4,Yes,Winter
+WH059_1,WH059,Campaign 1,14/12/2023,13/01/2024,Group 6,Indoor,Panel 2,30,PLATE4,Yes,Winter
+WH060_1,WH060,Campaign 1,08/09/2023,07/10/2023,Group 4,Indoor,Panel 2,29,PLATE4,Yes,Autumn
+WH061_1,WH061,Campaign 1,04/09/2023,02/10/2023,Group 4,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH062_1,WH062,Campaign 1,06/09/2023,04/10/2023,Group 4,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH063_1,WH063,Campaign 1,04/09/2023,03/10/2023,Group 4,Indoor,Panel 2,29,PLATE4,Yes,Autumn
+WH064_1,WH064,Campaign 1,08/09/2023,06/10/2023,Group 4,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH065_1,WH065,Campaign 1,04/09/2023,03/10/2023,Group 4,Indoor,Panel 2,29,PLATE4,Yes,Autumn
+WH066_1,WH066,Campaign 1,05/09/2023,03/10/2023,Group 4,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH067_1,WH067,Campaign 1,31/10/2023,28/11/2023,Group 5,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH068_1,WH068,Campaign 1,11/09/2023,12/10/2023,Group 4,Indoor,Panel 2,31,PLATE4,Yes,Autumn
+WH069_1,WH069,Campaign 1,06/09/2023,04/10/2023,Group 4,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH070_1,WH070,Campaign 1,07/11/2023,06/12/2023,Group 5,Indoor,Panel 2,29,PLATE4,Yes,Autumn
+WH071_1,WH071,Campaign 1,08/09/2023,06/10/2023,Group 4,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH072_1,WH072,Campaign 1,11/09/2023,09/10/2023,Group 4,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH073_1,WH073,Campaign 1,11/09/2023,09/10/2023,Group 4,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH074_1,WH074,Campaign 1,12/09/2023,10/10/2023,Group 4,Indoor,Panel 2,28,PLATE4,Yes,Autumn
+WH075_1,WH075,Campaign 1,07/12/2023,05/01/2024,Group 6,Indoor,Panel 2,29,PLATE4,Yes,Winter
+WH076_1,WH076,Campaign 1,12/09/2023,10/10/2023,Group 4,Indoor,Panel 2,28,PLATE5,Yes,Autumn
+WH077_1,WH077,Campaign 1,14/09/2023,12/10/2023,Group 4,Indoor,Panel 2,28,PLATE5,Yes,Autumn
+WH078_1,WH078,Campaign 1,19/09/2023,15/10/2023,Group 4,Indoor,Panel 2,26,PLATE5,Yes,Autumn
+WH079_1,WH079,Campaign 1,14/09/2023,12/10/2023,Group 4,Indoor,Panel 2,28,PLATE5,Yes,Autumn
+WH080_1,WH080,Campaign 1,15/09/2023,15/10/2023,Group 4,Indoor,Panel 2,30,PLATE5,Yes,Autumn
+WH082_1,WH082,Campaign 1,20/09/2023,15/10/2023,Group 4,Indoor,Panel 2,25,PLATE5,Yes,Autumn
+WH083_1,WH083,Campaign 1,30/10/2023,26/11/2023,Group 5,Indoor,Panel 2,27,PLATE5,Yes,Autumn
+WH084_1,WH084,Campaign 1,06/11/2023,04/12/2023,Group 5,Indoor,Panel 2,28,PLATE5,Yes,Autumn
+WH085_1,WH085,Campaign 1,03/11/2023,01/12/2023,Group 5,Indoor,Panel 2,28,PLATE5,Yes,Autumn
+WH086_1,WH086,Campaign 1,31/10/2023,28/11/2023,Group 5,Indoor,Panel 2,28,PLATE5,Yes,Autumn
+WH087_1,WH087,Campaign 1,30/10/2023,27/11/2023,Group 5,Indoor,Panel 2,28,PLATE5,Yes,Autumn
+WH088_1,WH088,Campaign 1,31/10/2023,28/11/2023,Group 5,Indoor,Panel 2,28,PLATE6,Yes,Autumn
+WH089_1,WH089,Campaign 1,01/11/2023,02/12/2023,Group 5,Indoor,Panel 2,31,PLATE6,Yes,Autumn
+WH090_1,WH090,Campaign 1,03/11/2023,01/12/2023,Group 5,Indoor,Panel 2,28,PLATE6,Yes,Autumn
+WH091_1,WH091,Campaign 1,08/11/2023,06/12/2023,Group 5,Indoor,Panel 2,28,PLATE6,Yes,Autumn
+WH092_1,WH092,Campaign 1,02/11/2023,30/11/2023,Group 5,Indoor,Panel 2,28,PLATE6,Yes,Autumn
+WH093_1,WH093,Campaign 1,07/11/2023,05/12/2023,Group 5,Indoor,Panel 2,28,PLATE6,Yes,Autumn
+WH094_1,WH094,Campaign 1,02/11/2023,30/11/2023,Group 5,Indoor,Panel 2,28,PLATE6,Yes,Autumn
+WH095_1,WH095,Campaign 1,03/11/2023,01/12/2023,Group 5,Indoor,Panel 2,28,PLATE6,Yes,Autumn
+WH096_1,WH096,Campaign 1,06/11/2023,04/12/2023,Group 5,Indoor,Panel 2,28,PLATE6,Yes,Autumn
+WH097_1,WH097,Campaign 1,08/11/2023,07/12/2023,Group 5,Indoor,Panel 2,29,PLATE6,Yes,Autumn
+WH098_1,WH098,Campaign 1,06/11/2023,05/12/2023,Group 5,Indoor,Panel 2,29,PLATE6,Yes,Autumn
+WH099_1,WH099,Campaign 1,08/11/2023,06/12/2023,Group 5,Indoor,Panel 2,28,PLATE6,Yes,Autumn
+WH101_1,WH101,Campaign 1,06/12/2023,04/01/2024,Group 6,Indoor,Panel 2,29,PLATE6,Yes,Winter
+WH102_1,WH102,Campaign 1,13/12/2023,10/01/2024,Group 6,Indoor,Panel 2,28,PLATE6,Yes,Winter
+WH103_1,WH103,Campaign 1,14/12/2023,11/01/2024,Group 6,Indoor,Panel 2,28,PLATE6,Yes,Winter
+WH104_1,WH104,Campaign 1,11/12/2023,10/01/2024,Group 6,Indoor,Panel 2,30,PLATE6,Yes,Winter
+WH105_1,WH105,Campaign 1,08/12/2023,05/01/2024,Group 6,Indoor,Panel 2,28,PLATE6,Yes,Winter
+WH106_1,WH106,Campaign 1,16/12/2023,13/01/2024,Group 6,Indoor,Panel 2,28,PLATE6,Yes,Winter
+WH107_1,WH107,Campaign 1,11/12/2023,10/01/2024,Group 6,Indoor,Panel 2,30,PLATE6,Yes,Winter
+WH108_1,WH108,Campaign 1,11/12/2023,08/01/2024,Group 6,Indoor,Panel 2,28,PLATE6,Yes,Winter
+WH109_1,WH109,Campaign 1,18/12/2023,15/01/2024,Group 6,Indoor,Panel 2,28,PLATE6,Yes,Winter
+WH110_1,WH110,Campaign 1,12/12/2023,09/01/2024,Group 6,Indoor,Panel 2,28,PLATE6,Yes,Winter
+WH111_1,WH111,Campaign 1,12/12/2023,09/01/2024,Group 6,Indoor,Panel 2,28,PLATE6,Yes,Winter
+WH112_1,WH112,Campaign 1,14/12/2023,12/01/2024,Group 6,Indoor,Panel 2,29,PLATE6,Yes,Winter
+WH001_2,WH001,Campaign 2,19/04/2023,17/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH002_2,WH002,Campaign 2,21/04/2023,22/05/2023,Group 1,Indoor,Panel 1,31,PLATE3,Yes,Spring
+WH003_2,WH003,Campaign 2,12/06/2023,28/06/2023,Group 2,Indoor,Panel 1,16,PLATE3,Yes,Summer
+WH004_2,WH004,Campaign 2,27/04/2023,25/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH005_2,WH005,Campaign 2,20/04/2023,18/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH007_2,WH007,Campaign 2,30/04/2023,31/05/2023,Group 1,Indoor,Panel 1,31,PLATE3,Yes,Spring
+WH008_2,WH008,Campaign 2,25/04/2023,25/05/2023,Group 1,Indoor,Panel 1,30,PLATE3,Yes,Spring
+WH009_2,WH009,Campaign 2,19/04/2023,19/05/2023,Group 1,Indoor,Panel 1,30,PLATE3,Yes,Spring
+WH011_2,WH011,Campaign 2,26/04/2023,24/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH012_2,WH012,Campaign 2,17/04/2023,19/05/2023,Group 1,Indoor,Panel 1,32,PLATE3,Yes,Spring
+WH013_2,WH013,Campaign 2,28/04/2023,26/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH014_2,WH014,Campaign 2,18/04/2023,16/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH015_2,WH015,Campaign 2,28/04/2023,26/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH016_2,WH016,Campaign 2,27/04/2023,25/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH017_2,WH017,Campaign 2,26/04/2023,24/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH018_2,WH018,Campaign 2,18/04/2023,16/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH019_2,WH019,Campaign 2,28/04/2023,26/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH020_2,WH020,Campaign 2,26/04/2023,24/05/2023,Group 1,Indoor,Panel 1,28,PLATE3,Yes,Spring
+WH021_2,WH021,Campaign 2,12/06/2023,10/07/2023,Group 2,Indoor,Panel 2,28,PLATE6,Yes,Summer
+WH022_2,WH022,Campaign 2,06/06/2023,04/07/2023,Group 2,Indoor,Panel 1,28,PLATE3,Yes,Summer
+WH023_2,WH023,Campaign 2,07/06/2023,05/07/2023,Group 2,Indoor,Panel 1,28,PLATE3,Yes,Summer
+WH024_2,WH024,Campaign 2,09/09/2023,09/10/2023,Group 2,Indoor,Panel 2,30,PLATE6,Yes,Autumn
+WH025_2,WH025,Campaign 2,12/06/2023,10/07/2023,Group 2,Indoor,Panel 2,28,PLATE6,Yes,Summer
+WH026_2,WH026,Campaign 2,08/06/2023,04/07/2023,Group 2,Indoor,Panel 2,26,PLATE7,Yes,Summer
+WH027_2,WH027,Campaign 2,05/06/2023,06/07/2023,Group 2,Indoor,Panel 2,31,PLATE7,Yes,Summer
+WH029_2,WH029,Campaign 2,05/06/2023,03/07/2023,Group 2,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH030_2,WH030,Campaign 2,05/06/2023,03/07/2023,Group 2,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH031_2,WH031,Campaign 2,02/06/2023,27/06/2023,Group 2,Indoor,Panel 2,25,PLATE7,Yes,Summer
+WH032_2,WH032,Campaign 2,12/07/2023,09/08/2023,Group 3,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH033_2,WH033,Campaign 2,20/07/2023,18/08/2023,Group 3,Indoor,Panel 2,29,PLATE7,Yes,Summer
+WH034_2,WH034,Campaign 2,05/06/2023,06/07/2023,Group 2,Indoor,Panel 2,31,PLATE7,Yes,Summer
+WH035_2,WH035,Campaign 2,29/06/2023,20/07/2023,Group 3,Indoor,Panel 2,21,PLATE7,Yes,Summer
+WH036_2,WH036,Campaign 2,30/05/2023,27/06/2023,Group 2,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH038_2,WH038,Campaign 2,06/06/2023,04/07/2023,Group 2,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH040_2,WH040,Campaign 2,01/06/2023,04/07/2023,Group 2,Indoor,Panel 2,33,PLATE7,Yes,Summer
+WH041_2,WH041,Campaign 2,09/06/2023,06/07/2023,Group 2,Indoor,Panel 2,27,PLATE7,Yes,Summer
+WH042_2,WH042,Campaign 2,07/06/2023,05/07/2023,Group 2,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH043_2,WH043,Campaign 2,14/07/2023,14/08/2023,Group 3,Indoor,Panel 2,31,PLATE7,Yes,Summer
+WH044_2,WH044,Campaign 2,11/07/2023,08/08/2023,Group 3,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH045_2,WH045,Campaign 2,21/07/2023,23/08/2023,Group 3,Indoor,Panel 2,33,PLATE7,Yes,Summer
+WH046_2,WH046,Campaign 2,19/07/2023,11/08/2023,Group 3,Indoor,Panel 2,23,PLATE7,Yes,Summer
+WH048_2,WH048,Campaign 2,13/07/2023,10/08/2023,Group 3,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH049_2,WH049,Campaign 2,28/06/2023,26/07/2023,Group 3,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH050_2,WH050,Campaign 2,20/07/2023,17/08/2023,Group 3,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH051_2,WH051,Campaign 2,10/07/2023,07/08/2023,Group 3,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH054_2,WH054,Campaign 2,18/07/2023,17/08/2023,Group 3,Indoor,Panel 2,30,PLATE7,Yes,Summer
+WH056_2,WH056,Campaign 2,16/05/2024,13/06/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Summer
+WH057_2,WH057,Campaign 2,17/07/2023,14/08/2023,Group 3,Indoor,Panel 2,28,PLATE7,Yes,Summer
+WH058_2,WH058,Campaign 2,24/04/2024,22/05/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH059_2,WH059,Campaign 2,24/04/2024,23/05/2024,Group 6,Indoor,Panel 3,29,PLATE9,Yes,Spring
+WH060_2,WH060,Campaign 2,17/01/2024,16/02/2024,Group 4,Indoor,Panel 2,30,PLATE7,Yes,Winter
+WH061_2,WH061,Campaign 2,18/01/2024,15/02/2024,Group 4,Indoor,Panel 2,28,PLATE7,Yes,Winter
+WH062_2,WH062,Campaign 2,23/01/2024,21/02/2024,Group 4,Indoor,Panel 2,29,PLATE7,Yes,Winter
+WH063_2,WH063,Campaign 2,22/01/2024,19/02/2024,Group 4,Indoor,Panel 2,28,PLATE8,Yes,Winter
+WH064_2,WH064,Campaign 2,15/01/2024,20/02/2024,Group 4,Indoor,Panel 2,36,PLATE8,Yes,Winter
+WH065_2,WH065,Campaign 2,16/01/2024,13/02/2024,Group 4,Indoor,Panel 2,28,PLATE8,Yes,Winter
+WH066_2,WH066,Campaign 2,16/01/2024,13/02/2024,Group 4,Indoor,Panel 2,28,PLATE8,Yes,Winter
+WH067_2,WH067,Campaign 2,21/02/2024,20/03/2024,Group 5,Indoor,Panel 3,28,PLATE8,Yes,Spring
+WH068_2,WH068,Campaign 2,24/01/2024,21/02/2024,Group 4,Indoor,Panel 2,28,PLATE8,Yes,Winter
+WH069_2,WH069,Campaign 2,17/01/2024,14/02/2024,Group 4,Indoor,Panel 2,28,PLATE8,Yes,Winter
+WH070_2,WH070,Campaign 2,24/02/2024,25/03/2024,Group 5,Indoor,Panel 3,30,PLATE8,Yes,Spring
+WH071_2,WH071,Campaign 2,22/01/2024,19/02/2024,Group 4,Indoor,Panel 2,28,PLATE8,Yes,Winter
+WH072_2,WH072,Campaign 2,22/01/2024,19/02/2024,Group 4,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH073_2,WH073,Campaign 2,15/01/2024,12/02/2024,Group 4,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH074_2,WH074,Campaign 2,24/01/2024,21/02/2024,Group 4,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH075_2,WH075,Campaign 2,16/04/2024,14/05/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH076_2,WH076,Campaign 2,23/01/2024,20/02/2024,Group 4,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH077_2,WH077,Campaign 2,18/01/2024,15/02/2024,Group 4,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH078_2,WH078,Campaign 2,24/01/2024,21/02/2024,Group 4,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH079_2,WH079,Campaign 2,23/01/2024,20/02/2024,Group 4,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH082_2,WH082,Campaign 2,15/01/2024,14/02/2024,Group 4,Indoor,Panel 3,30,PLATE8,Yes,Winter
+WH084_2,WH084,Campaign 2,19/02/2024,18/03/2024,Group 5,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH085_2,WH085,Campaign 2,29/02/2024,27/03/2024,Group 5,Indoor,Panel 3,27,PLATE8,Yes,Spring
+WH086_2,WH086,Campaign 2,20/02/2024,19/03/2024,Group 5,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH087_2,WH087,Campaign 2,26/02/2024,25/03/2024,Group 5,Indoor,Panel 3,28,PLATE8,Yes,Spring
+WH088_2,WH088,Campaign 2,27/02/2024,26/03/2024,Group 5,Indoor,Panel 3,28,PLATE8,Yes,Spring
+WH089_2,WH089,Campaign 2,27/02/2024,26/03/2024,Group 5,Indoor,Panel 3,28,PLATE8,Yes,Spring
+WH090_2,WH090,Campaign 2,23/02/2024,22/03/2024,Group 5,Indoor,Panel 3,28,PLATE8,Yes,Spring
+WH091_2,WH091,Campaign 2,06/03/2024,04/04/2024,Group 5,Indoor,Panel 3,29,PLATE8,Yes,Spring
+WH093_2,WH093,Campaign 2,20/02/2024,19/03/2024,Group 5,Indoor,Panel 3,28,PLATE8,Yes,Winter
+WH094_2,WH094,Campaign 2,06/03/2024,09/04/2024,Group 5,Indoor,Panel 3,34,PLATE8,Yes,Spring
+WH095_2,WH095,Campaign 2,23/02/2024,21/03/2024,Group 5,Indoor,Panel 3,27,PLATE9,Yes,Spring
+WH096_2,WH096,Campaign 2,19/02/2024,18/03/2024,Group 5,Indoor,Panel 3,28,PLATE9,Yes,Winter
+WH097_2,WH097,Campaign 2,20/03/2024,19/04/2024,Group 5,Indoor,Panel 3,30,PLATE9,Yes,Spring
+WH098_2,WH098,Campaign 2,27/02/2024,26/03/2024,Group 5,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH099_2,WH099,Campaign 2,26/02/2024,25/03/2024,Group 5,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH101_2,WH101,Campaign 2,22/04/2024,20/05/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH102_2,WH102,Campaign 2,18/04/2024,16/05/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH105_2,WH105,Campaign 2,15/04/2024,13/05/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH106_2,WH106,Campaign 2,19/04/2024,10/05/2024,Group 6,Indoor,Panel 3,21,PLATE9,Yes,Spring
+WH107_2,WH107,Campaign 2,23/04/2024,22/05/2024,Group 6,Indoor,Panel 3,29,PLATE9,Yes,Spring
+WH109_2,WH109,Campaign 2,25/04/2024,23/05/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH110_2,WH110,Campaign 2,22/04/2024,20/05/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH111_2,WH111,Campaign 2,19/04/2024,17/05/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Spring
+WH112_2,WH112,Campaign 2,17/04/2024,15/05/2024,Group 6,Indoor,Panel 3,28,PLATE9,Yes,Spring
+PH01_1,PH01,Priority 1,09/08/2023,09/09/2023,Group 4,Indoor,Panel 3,31,PLATE9,Yes,Summer
+PH02_1,PH02,Priority 1,03/08/2023,01/09/2023,Group 4,Indoor,Panel 3,29,PLATE9,Yes,Summer
+PH03_1,PH03,Priority 1,24/08/2023,21/09/2023,Group 4,Indoor,Panel 3,28,PLATE9,Yes,Summer
+PH04_1,PH04,Priority 1,27/09/2023,26/10/2023,Group 4,Indoor,Panel 3,29,PLATE9,Yes,Autumn
+PH05_1,PH05,Priority 1,31/08/2023,28/09/2023,Group 4,Indoor,Panel 3,28,PLATE9,Yes,Autumn
+PH06_1,PH06,Priority 1,20/09/2023,23/10/2023,Group 4,Indoor,Panel 3,33,PLATE9,Yes,Autumn
+PH07_1,PH07,Priority 1,26/10/2023,23/11/2023,Group 5,Indoor,Panel 3,28,PLATE9,Yes,Autumn
+PH08_1,PH08,Priority 1,14/09/2023,12/10/2023,Group 4,Indoor,Panel 3,28,PLATE9,Yes,Autumn
+PH09_1,PH09,Priority 1,12/10/2023,09/11/2023,Group 4,Indoor,Panel 3,28,PLATE9,Yes,Autumn
+PH10_1,PH10,Priority 1,19/10/2023,16/11/2023,Group 5,Indoor,Panel 3,28,PLATE10,Yes,Autumn
+PH01_2,PH01,Priority 2,17/01/2024,14/02/2024,Group 4,Indoor,Panel 3,28,PLATE10,Yes,Winter
+PH02_2,PH02,Priority 2,25/01/2024,22/02/2024,Group 4,Indoor,Panel 3,28,PLATE10,Yes,Winter
+PH03_2,PH03,Priority 2,01/02/2024,29/02/2024,Group 4,Indoor,Panel 3,28,PLATE10,Yes,Winter
+PH04_2,PH04,Priority 2,29/02/2024,26/03/2024,Group 5,Indoor,Panel 3,26,PLATE10,Yes,Spring
+PH05_2,PH05,Priority 2,14/02/2024,13/03/2024,Group 5,Indoor,Panel 3,28,PLATE10,Yes,Winter
+PH06_2,PH06,Priority 2,20/02/2024,19/03/2024,Group 5,Indoor,Panel 3,28,PLATE10,Yes,Winter
+PH07_2,PH07,Priority 2,22/03/2024,19/04/2024,Group 5,Indoor,Panel 3,28,PLATE10,Yes,Spring
+PH08_2,PH08,Priority 2,07/03/2024,05/04/2024,Group 5,Indoor,Panel 3,29,PLATE10,Yes,Spring
+PH09_2,PH09,Priority 2,15/03/2024,12/04/2024,Group 5,Indoor,Panel 3,28,PLATE10,Yes,Spring
+PH10_2,PH10,Priority 2,12/04/2024,10/05/2024,Group 6,Indoor,Panel 3,28,PLATE10,Yes,Spring
+A001,A001,Outdoor,19/10/2022,16/11/2022,,Outdoor,Panel 1,28,,Yes,Autumn
+A002,A002,Outdoor,19/10/2022,16/11/2022,,Outdoor,Panel 1,28,,Yes,Autumn
+A003,A003,Outdoor,19/10/2022,16/11/2022,,Outdoor,Panel 1,28,,Yes,Autumn
+A004,A004,Outdoor,19/10/2022,16/11/2022,,Outdoor,Panel 1,28,,Yes,Autumn
+A005,A001,Outdoor,11/01/2023,08/02/2023,,Outdoor,Panel 1,28,,Yes,Winter
+A006,A002,Outdoor,11/01/2023,08/02/2023,,Outdoor,Panel 1,28,,Yes,Winter
+A007,A003,Outdoor,11/01/2023,08/02/2023,,Outdoor,Panel 1,28,,Yes,Winter
+A008,A004,Outdoor,11/01/2023,08/02/2023,,Outdoor,Panel 1,28,,Yes,Winter
+A009,A001,Outdoor,27/02/2023,29/03/2023,,Outdoor,Panel 1,30,,Yes,Spring
+A010,A002,Outdoor,27/02/2023,29/03/2023,,Outdoor,Panel 1,30,,Yes,Spring
+A011,A003,Outdoor,27/02/2023,29/03/2023,,Outdoor,Panel 1,30,,Yes,Spring
+A012,A004,Outdoor,27/02/2023,29/03/2023,,Outdoor,Panel 1,30,,Yes,Spring
+A013,A001,Outdoor,29/03/2023,28/04/2023,,Outdoor,Panel 1,30,,Yes,Spring
+A014,A002,Outdoor,29/03/2023,28/04/2023,,Outdoor,Panel 1,30,,Yes,Spring
+A015,A003,Outdoor,29/03/2023,28/04/2023,,Outdoor,Panel 1,30,,Yes,Spring
+A016,A004,Outdoor,29/03/2023,28/04/2023,,Outdoor,Panel 1,30,,Yes,Spring
+A017,A001,Outdoor,31/05/2023,03/07/2023,,Outdoor,Panel 1,33,,Yes,Summer
+A018,A002,Outdoor,31/05/2023,03/07/2023,,Outdoor,Panel 1,33,,Yes,Summer
+A019,A003,Outdoor,31/05/2023,03/07/2023,,Outdoor,Panel 1,33,,No,Summer
+A020,A004,Outdoor,31/05/2023,03/07/2023,,Outdoor,Panel 1,33,,Yes,Summer
+A021,A001,Outdoor,06/07/2023,04/08/2023,,Outdoor,Panel 3,29,,Yes,Summer
+A022,A002,Outdoor,06/07/2023,04/08/2023,,Outdoor,Panel 3,29,,Yes,Summer
+A023,A003,Outdoor,06/07/2023,04/08/2023,,Outdoor,Panel 3,29,,Yes,Summer
+A024,A004,Outdoor,06/07/2023,04/08/2023,,Outdoor,Panel 3,29,,Yes,Summer
+A025,A001,Outdoor,25/09/2023,30/10/2023,,Outdoor,Panel 3,35,,Yes,Autumn
+A026,A002,Outdoor,25/09/2023,30/10/2023,,Outdoor,Panel 3,35,,Yes,Autumn
+A027,A003,Outdoor,25/09/2023,30/10/2023,,Outdoor,Panel 3,35,,Yes,Autumn
+A028,A004,Outdoor,25/09/2023,30/10/2023,,Outdoor,Panel 3,35,,Yes,Autumn
+A029,A001,Outdoor,12/12/2023,09/01/2024,,Outdoor,Panel 3,28,,Yes,Winter
+A030,A002,Outdoor,12/12/2023,09/01/2024,,Outdoor,Panel 3,28,,Yes,Winter
+A031,A003,Outdoor,12/12/2023,09/01/2024,,Outdoor,Panel 3,28,,Yes,Winter
+A032,A004,Outdoor,12/12/2023,09/01/2024,,Outdoor,Panel 3,28,,Yes,Winter
+A033,A001,Outdoor,08/02/2024,07/03/2024,,Outdoor,Panel 3,28,,Yes,Winter
+A034,A002,Outdoor,08/02/2024,07/03/2024,,Outdoor,Panel 3,28,,Yes,Winter
+A035,A003,Outdoor,08/02/2024,07/03/2024,,Outdoor,Panel 3,28,,Yes,Winter
+A037,A001,Outdoor,25/03/2024,22/04/2024,,Outdoor,Panel 3,28,,Yes,Spring
+A038,A002,Outdoor,25/03/2024,22/04/2024,,Outdoor,Panel 3,28,,Yes,Spring
+A039,A003,Outdoor,25/03/2024,22/04/2024,,Outdoor,Panel 3,28,,Yes,Spring
+A040,A004,Outdoor,25/03/2024,22/04/2024,,Outdoor,Panel 3,28,,Yes,Spring
+A041,A001,Outdoor,15/05/2024,13/06/2024,,Outdoor,Panel 3,29,,Yes,Spring
+A042,A002,Outdoor,15/05/2024,13/06/2024,,Outdoor,Panel 3,29,,Yes,Spring
+A043,A003,Outdoor,15/05/2024,13/06/2024,,Outdoor,Panel 3,29,,Yes,Spring
+A044,A004,Outdoor,15/05/2024,13/06/2024,,Outdoor,Panel 3,29,,Yes,Spring
